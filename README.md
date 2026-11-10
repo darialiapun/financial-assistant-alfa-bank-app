@@ -1,6 +1,6 @@
 # "Tax Advisor" in the Alfa-Bank app
 
-A product case study completed during the online product management practice by **Alfa-Future** (Alfa-Bank's education programme). The product was taken from idea to pitch: audience research, hypotheses, prototype, metrics, UX testing and defending the concept.
+A product case study completed during the product management practice by Alfa-Bank's education programme. The product was taken from idea to pitch: audience research, hypotheses, prototype, metrics, UX testing and defending the concept.
 
 🔗 **[Clickable prototype in Figma](https://www.figma.com/proto/5uRcH0Q9rWcuCwDMKEGurR/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D0%BD%D0%B8%D0%BA?node-id=2007-1817&p=f&t=Czewidr7OPK2DvK7-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2007%3A1817)**
 
